@@ -1,0 +1,2 @@
+En aquest treball no he tingut cap tipus de dificultat alhora de resordre'l.
+He fet 5 if, un per cada opció que l'exercici hem proposa, i cadascuna hem retorna, depenent del preu de la compra si l'envio es pot fer o no, si es gratis o tens de pagar l'envio, i si el pedido superava els 150euros et regalaven un codi per tindre un 20% de descompte en el següent pedido.
